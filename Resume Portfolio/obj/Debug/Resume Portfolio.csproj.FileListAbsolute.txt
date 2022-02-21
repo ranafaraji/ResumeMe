@@ -1,0 +1,89 @@
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Resume Portfolio.dll.config
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Resume Portfolio.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Resume Portfolio.pdb
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\csc.exe
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\csc.exe.config
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\csc.rsp
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\csi.exe
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\csi.exe.config
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\csi.rsp
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.AppContext.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Collections.Immutable.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Console.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Globalization.Calendars.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.IO.Compression.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.IO.FileSystem.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Net.Http.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Net.Sockets.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Reflection.Metadata.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.ValueTuple.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Xml.XPath.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\vbc.exe
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\vbc.exe.config
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\vbc.rsp
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\VBCSCompiler.exe
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\roslyn\VBCSCompiler.exe.config
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Antlr3.Runtime.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\EntityFramework.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\EntityFramework.SqlServer.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Microsoft.Web.Infrastructure.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Newtonsoft.Json.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Net.Http.Formatting.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Helpers.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Http.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Http.WebHost.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Mvc.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Optimization.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Razor.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.WebPages.Deployment.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.WebPages.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.WebPages.Razor.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\WebGrease.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\EntityFramework.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\EntityFramework.SqlServer.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Newtonsoft.Json.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Net.Http.Formatting.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Helpers.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Http.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Http.WebHost.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Mvc.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Optimization.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.Razor.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.WebPages.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.WebPages.Deployment.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\System.Web.WebPages.Razor.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Antlr3.Runtime.pdb
+E:\Backend\Resume Portfolio\Resume Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Backend\Resume Portfolio\Resume Portfolio\obj\Debug\Resume Portfolio.csproj.AssemblyReference.cache
+E:\Backend\Resume Portfolio\Resume Portfolio\obj\Debug\Resume Portfolio.csproj.CoreCompileInputs.cache
+E:\Backend\Resume Portfolio\Resume Portfolio\obj\Debug\Resume Portfolio.csproj.CopyComplete
+E:\Backend\Resume Portfolio\Resume Portfolio\obj\Debug\Resume Portfolio.dll
+E:\Backend\Resume Portfolio\Resume Portfolio\obj\Debug\Resume Portfolio.pdb

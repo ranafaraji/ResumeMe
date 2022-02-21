@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Information">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstName" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="lastName" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="phoneNumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="country" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="passportNumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="address" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="email" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="summary" Type="nvarchar" MaxLength="550" Nullable="false" />
+    <Property Name="school" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="degree" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="dateEducation" Type="int" Nullable="false" />
+    <Property Name="cityEducation" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="descriptionEducation" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="jobTitle" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Employee" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="dateWork" Type="int" Nullable="false" />
+    <Property Name="cityWork" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="descriptionWork" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="basicSkill" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="intermediateSkill" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="advanceSkill" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="rating" Type="int" Nullable="false" />
+    <Property Name="star" Type="nvarchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SignUp">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fullName" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="passwordName" Type="int" Nullable="false" />
+    <Property Name="email" Type="nvarchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="Information" EntityType="Self.Information" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SignUp" EntityType="Self.SignUp" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

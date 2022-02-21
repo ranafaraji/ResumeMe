@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Resume_Entities">
+    <EntitySetMapping Name="Information">
+      <EntityTypeMapping TypeName="Model.Information">
+        <MappingFragment StoreEntitySet="Information">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="phoneNumber" ColumnName="phoneNumber" />
+          <ScalarProperty Name="country" ColumnName="country" />
+          <ScalarProperty Name="passportNumber" ColumnName="passportNumber" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="summary" ColumnName="summary" />
+          <ScalarProperty Name="school" ColumnName="school" />
+          <ScalarProperty Name="degree" ColumnName="degree" />
+          <ScalarProperty Name="dateEducation" ColumnName="dateEducation" />
+          <ScalarProperty Name="cityEducation" ColumnName="cityEducation" />
+          <ScalarProperty Name="descriptionEducation" ColumnName="descriptionEducation" />
+          <ScalarProperty Name="jobTitle" ColumnName="jobTitle" />
+          <ScalarProperty Name="Employee" ColumnName="Employee" />
+          <ScalarProperty Name="dateWork" ColumnName="dateWork" />
+          <ScalarProperty Name="cityWork" ColumnName="cityWork" />
+          <ScalarProperty Name="descriptionWork" ColumnName="descriptionWork" />
+          <ScalarProperty Name="basicSkill" ColumnName="basicSkill" />
+          <ScalarProperty Name="intermediateSkill" ColumnName="intermediateSkill" />
+          <ScalarProperty Name="advanceSkill" ColumnName="advanceSkill" />
+          <ScalarProperty Name="rating" ColumnName="rating" />
+          <ScalarProperty Name="star" ColumnName="star" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

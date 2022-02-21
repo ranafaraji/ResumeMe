@@ -1,0 +1,44 @@
+﻿@model Resume_Portfolio.Models.SignUp
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Signup</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="signup-form">
+                <form action="/Home/Index" method="post">
+                    <h4 class="mb-5 text-secondary">Create your Account</h4>
+                    <div class="row">
+                        <div class="mb-3 col-md-12">
+                            <label>Full Name<span class="text-danger">*</span> </label>
+                            @*<input type="text" name="fullname" class="form-control" placeholder="Enter Full Name">*@
+                            @Html.TextBoxFor(a => a.fullName)
+                        </div>
+
+                        <div class="mb-3 col-md-12">
+                            <label>Password Name <span class="text-danger">*</span></label>
+                            @Html.TextBoxFor(a => a.passwordName)
+                            @*<input type="password" name="password" class="form-control"
+                placeholder="Enter Password">*@
+                        </div>
+                        <div class="mb-3 col-md-12">
+                            <label>Email Address <span class="text-danger">*</span></label>
+                            @Html.TextBoxFor(a => a.email)
+                            @*<input type="text" name="emailaddress" class="form-control"
+                placeholder="Enter Email Address">*@
+                        </div>
+                        <div class="mb-3 col-md-12">
+                            <button mb-3 id="myButton" type="submit" class="float-left submit-button btn btn-primary float-end">Signup Now</button>
+                        </div>
+                    </div>
+                </form>
+                <p class="text-center mt-3 text-secondary">If you have account, Please <a href="#"> Login Now</a></p>
+            </div>
+        </div>
+    </div>
+
+</div>
